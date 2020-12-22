@@ -15,7 +15,7 @@ import restaurantsystem.component.auth.Login;
 
 /**
  *
- * @author Qazi Muaaz54
+ * @author Qazi Muaaz-11
  */
 public class Main extends JFrame {
 
